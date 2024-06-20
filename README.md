@@ -18,6 +18,9 @@ Use following:
 conda install -c kgs/main tensorflow=2.6.0=gpu_py39he88c5ba_0
 ```
 
+## Trained models
+We will release the trained models soon.
+
 ## Citing this repository
 If you find this code useful in your research, please consider citing us:
 
