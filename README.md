@@ -27,7 +27,7 @@ If you find this code useful in your research, please consider citing us:
 ```
 @article{jaswal2024learning,
   title={Learning Joint Local-Global Iris Representations via Spatial Calibration for Generalized Presentation Attack Detection},
-  author={Gaurav Jaswal and Aman Verma and Sumantra Dutta Roy and Raghavendra Ramachandra},
+  author={Gaurav Jaswal and Aman Verma and Sumantra Dutta~Roy and Raghavendra Ramachandra},
   journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
   year={2024},
   publisher={IEEE}
