@@ -14,8 +14,8 @@ tensorflow: 2.5.0/2.6.0
 ```
 
 ```
-Use following:
-conda install -c kgs/main tensorflow=2.6.0=gpu_py39he88c5ba_0
+Use the following:
+conda install -c pkgs/main tensorflow=2.6.0=gpu_py39he88c5ba_0
 ```
 
 ## Trained models
